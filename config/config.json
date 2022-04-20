@@ -1,0 +1,7 @@
+{
+    "development": {
+        "PORT": 3000,
+        "MONGODB_URL": "mongodb+srv://HenriPham280100:fTPdY76cqPnapcD9h@cluster0.y8k4j.mongodb.net/tastyfood?authSource=admin&replicaSet=atlas-jkzq3h-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+
+    }
+}
